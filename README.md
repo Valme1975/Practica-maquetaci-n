@@ -1,2 +1,2 @@
-# Practica-maquetaci-n
+# Practica-maquetacion
 Práctica responsiva de maquetación
